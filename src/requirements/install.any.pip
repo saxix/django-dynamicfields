@@ -1,0 +1,4 @@
+pytz
+djangorestframework
+django-picklefield
+django-strategy-field>=1.0
